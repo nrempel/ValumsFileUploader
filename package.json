@@ -1,1 +1,22 @@
-
+{
+  "name": "valums-file-uploader",
+  "version": "1.0.0",
+  "description": "[donation_link]: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=3PMY37SL9L888&lc=US&item_name=JavaScript%20file%20uploader&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted",
+  "main": "client/fileuploader.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nrempel/ValumsFileUploader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nrempel/ValumsFileUploader/issues"
+  },
+  "homepage": "https://github.com/nrempel/ValumsFileUploader"
+}
